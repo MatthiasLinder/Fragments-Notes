@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools">
+  <item
+       android:id="@+id/menu_add"
+       android:icon="@mipmap/baseline_add_black_18dp"
+       android:showAsAction="always"
+       app:showAsAction="always"
+       android:title="Add" />
+  <item
+       android:id="@+id/menu_delete"
+       app:showAsAction="always"
+       android:showAsAction="always"
+       android:icon="@mipmap/baseline_delete_sweep_black_18dp"
+       android:title="Delete" />
+</menu>
